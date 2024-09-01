@@ -1,6 +1,6 @@
 <center><img src="https://github.com/DACSS-PreProcessing/session1_main/blob/main/pics/LogoSimple.png?raw=true" width="400"></center>
 
-# DACSS Processing
+# DACSS Pre Processing
 ## Week 1
 
 Here you have codes used during the session
